@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="miuicam"
+           fetch="https://github.com/Xtended-Devices"
+           revision="xq-onclite" />  
+  <project path="vendor/MiuiCamera" name="vendor_MiuiCamera" remote="miuicam" />
+
+</manifest>
