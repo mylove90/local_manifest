@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- <remote  name="anirudhgupta109"
-           fetch="https://gitlab.com/anirudhgupta109"
-           revision="ten" />  
-  <project path="vendor/pixelgapps" name="android_vendor_pixelgapps" remote="anirudhgupta109" />
- </manifest>
